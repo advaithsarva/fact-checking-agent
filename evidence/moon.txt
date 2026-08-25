@@ -1,0 +1,4 @@
+tier: primary
+source: NASA Solar System Exploration
+---
+The Moon is Earth's only natural satellite. It is the fifth largest moon in the Solar System and the largest relative to the size of the planet it orbits. The Moon has no atmosphere capable of supporting life and does not produce its own light; it reflects sunlight.

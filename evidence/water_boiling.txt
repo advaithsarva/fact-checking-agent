@@ -1,0 +1,4 @@
+tier: primary
+source: NIST Chemistry WebBook
+---
+At standard atmospheric pressure (one atmosphere, sea level), pure water boils at 100 degrees Celsius, which is 212 degrees Fahrenheit. The boiling point decreases at higher altitudes because atmospheric pressure is lower there.

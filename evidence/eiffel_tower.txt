@@ -1,0 +1,4 @@
+tier: primary
+source: Official Eiffel Tower website (toureiffel.paris)
+---
+The Eiffel Tower is located in Paris, France, on the Champ de Mars near the Seine river. It was designed by engineer Gustave Eiffel's company and completed in 1889 for the World's Fair.

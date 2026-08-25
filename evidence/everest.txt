@@ -1,0 +1,4 @@
+tier: secondary
+source: National Geographic reference summary
+---
+Mount Everest, on the border of Nepal and the Tibet Autonomous Region of China, is the highest mountain above sea level on Earth. Its peak elevation is commonly cited as 8,849 meters (29,032 feet). It is part of the Himalayan mountain range.

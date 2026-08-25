@@ -1,0 +1,12 @@
+spacy==3.8.7
+rank-bm25==0.2.2
+sentence-transformers>=3.0
+requests>=2.30
+
+# optional: for live web search instead of the offline demo corpus
+#   export TAVILY_API_KEY=...   (https://tavily.com)
+
+# after installing, fetch the spaCy model:
+#   python -m spacy download en_core_web_sm
+# the NLI model (cross-encoder/nli-deberta-v3-xsmall) downloads
+# automatically via sentence-transformers on first run and is cached after.

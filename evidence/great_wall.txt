@@ -1,0 +1,4 @@
+tier: secondary
+source: Scientific American, "Is the Great Wall of China Visible from Space?"
+---
+Contrary to popular belief, the Great Wall of China is not visible to the naked eye from low Earth orbit under normal conditions, according to multiple astronauts including Chris Hadfield. The wall is long but very narrow, which makes it far harder to see from orbit than commonly assumed. This claim is considered a persistent myth.

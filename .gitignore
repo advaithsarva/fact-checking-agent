@@ -1,0 +1,8 @@
+observe.md
+CLAUDE.md
+__pycache__/
+*.pyc
+.venv/
+samples/report.html
+samples/report.json
+*.egg-info/
